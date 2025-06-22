@@ -1,8 +1,9 @@
 
 
-# 🐬 MySQL III — Consultas Avanzadas
+# 🐬 MySQL II — 
 
-Este documento cubre la creación de un pequeño esquema de base de datos en MySQL y su exploración mediante **consultas avanzadas** como `JOIN`, `GROUP BY`, `HAVING`, **subconsultas**, **funciones de ventana** y **UNION**.
+
+## Consultas Avanzadas
 
 ---
 
